@@ -9,7 +9,7 @@ Tested up to: 3.8.1
 
 ##[Interakt](http://interakt.co)
 
-Interakt is a customer relationship management (CRM) and messaging tool for web app owners.
+Interakt.co simplifies customer data analysis, marketing and support. Our integrated crm, email marketing and live chat allows you to engage, retain and support your customers from one single dashboard.
 
 ###360° LEAD CAPTURE
 
