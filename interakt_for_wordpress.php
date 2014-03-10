@@ -2,7 +2,7 @@
 /*
   Plugin Name: Interakt for WordPress
   Plugin URI: http://interakt.co
-  Description: Integrate the <a href="http://interakt.co">Interakt</a> CRM and messaging app into your WordPress website.
+  Description: Integrate the <a href="http://interakt.co">Interakt</a> all in one customer engagement platform with your WordPress web app.
   Author: Peeyush Singla
   Author URI: https://twitter.com/peeyush_singla
   Version: 0.1
