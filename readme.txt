@@ -7,7 +7,9 @@ Tested up to: 3.8.1
 
 == Description ==
 
-##[Interakt](http://interakt.co) is a customer relationship management (CRM) and messaging tool for web app owners.
+##[Interakt](http://interakt.co)
+
+Interakt is a customer relationship management (CRM) and messaging tool for web app owners.
 
 ###360° LEAD CAPTURE
 
