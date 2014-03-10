@@ -7,9 +7,32 @@ Tested up to: 3.8.1
 
 == Description ==
 
-[Intercom](http://intercom.io) is a customer relationship management (CRM) and messaging tool for web app owners.
+[Interakt](http://interakt.co) is a customer relationship management (CRM) and messaging tool for web app owners.
 
-WordPress is being widely used as a web app nowadays, so Interakt is an ideal companion app to find out more about your users, contact them, get their instant feedback, and track your relationship with them over time so you can spot those who need attention.
+###360° LEAD CAPTURE
+
+Capture Leads in every possible way. Import existing leads, divide them in segments and nurture them in realtime.
+
+###CONSOLIDATE USER DATA
+
+Capture user sessions, activities & dynamics with rich profiling for every user. Create segments and track their progress.
+
+###POWERFUL EMAIL AUTOMATION
+
+Customize templates to send automated marketing & transactional emails. Engage users and view email stats.
+
+###ENGAGE WITH LIVE CHAT
+
+Engage visitors & provide live support to exisiting users. Use a customizable chat window or the offline mode.
+
+###KEEP USERS INFORMED
+
+Announce new features or target segments with special offers. Use customizable & trackable web notifications.
+
+###GATHER FEEDBACK & RETAIN
+
+Create feedback forms to gather suggestions, ideas, & issues. Analyze all this in one place to improve.
+
 
 This plugin generates the Javascript install code to integrate all of this functionality into your WordPress-powered web app.
 
