@@ -13,7 +13,7 @@ Tested up to: 3.8.1
 
 Interakt.co simplifies customer data analysis, marketing and support. Our integrated crm, email marketing and live chat allows you to engage, retain and support your customers from one single dashboard.
 
-[vimeo https://player.vimeo.com/video/94951847]
+https://vimeo.com/94951847
 
 ###360° LEAD CAPTURE
 
