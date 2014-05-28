@@ -53,7 +53,8 @@ You can also optionally send extra custom data about your users.
 8. Now you got your app_id go to your application admin page->settings->interakt_settings.
 9. Enter your app_id here and your application is integrated with http://interakt.co
 10. Now go to http://interakt.co project and start interakting with users.
-11. If any issue check http://docs.interakt.co blog or contact us at support@interakt.co.
+11. If plugin will not case might be with theme plese reload it and plugin will start working
+12. If any issue check http://docs.interakt.co blog or contact us at support@interakt.co.
 
 
 
