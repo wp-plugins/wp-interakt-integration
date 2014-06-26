@@ -139,7 +139,7 @@ class PS_Interakt{
         (function() {
         var interakt = document.createElement('script');
         interakt.type = 'text/javascript'; interakt.async = true;
-        interakt.src = 'http://interakt.co/interakt/$interakt_key.js'
+        interakt.src = 'http://cdn.interakt.co/interakt/$interakt_key.js'
         var scrpt = document.getElementsByTagName('script')[0];
         scrpt.parentNode.insertBefore(interakt, scrpt);
         })()
