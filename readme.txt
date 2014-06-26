@@ -62,6 +62,8 @@ You can also optionally send extra custom data about your users.
 
 
 == Changelog ==
+= 1.1 ( 22 May 2014) =
+* Theme issue fixed.
 
 = 0.1 (16 March 2014) =
 * Initial release.
