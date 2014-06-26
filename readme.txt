@@ -61,6 +61,12 @@ You can also optionally send extra custom data about your users.
 12. If any issue check http://docs.interakt.co blog or contact us at support@interakt.co.
 
 
+== Changelog ==
+
+= 0.1 (16 March 2014) =
+* Initial release.
+
+
 
 
 
