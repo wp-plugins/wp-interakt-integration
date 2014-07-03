@@ -106,7 +106,8 @@ class PS_Interakt{
      */
     public function interakt_main_section_cb()
     {
-      echo '<a href="http://docs.interakt.co">Check Interakt Docs For Help</a>';
+      echo '<h3>Confused! where to get these keys? </h3>';
+      echo '<h3><a href="http://docs.interakt.co/integrations/wordpress" target="_blank">Click Here</a> or <a href="mailto:support@interakt.co?Subject=Need help for Interakt Integration with WordPress site" target="_top">Drop us an Email</a><h3>';
     }
 
 
