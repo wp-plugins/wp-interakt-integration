@@ -130,9 +130,10 @@ class PS_Interakt{
     $my_settings_page = new PS_Interakt();
 
 
+  add_action('wp_footer', "add_interakt_script" );
 
-//Calling constructor method if user is in front end.
-  add_action('wp_footer', function(){
+
+  function add_interakt_script(){
     $interakt_object = new PS_Interakt();
     $interakt_key = ($interakt_object->options['interakt_app_key']);
     if (!empty($interakt_key)) {
@@ -161,4 +162,5 @@ class PS_Interakt{
         </script>";
       }
     }
-  });
+  };
+

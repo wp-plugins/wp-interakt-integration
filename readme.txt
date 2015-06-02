@@ -62,6 +62,9 @@ You can also optionally send extra custom data about your users.
 
 
 == Changelog ==
+= 2.2(2 June 2015) =
+* Added support for PHP 5.2.
+
 = 2.1(27 June 2014) =
 * API chagnes for Interakt.
 * Changes in Javascript Interakt
