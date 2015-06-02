@@ -5,7 +5,7 @@
   Description: Integrate the <a href="http://interakt.co">Interakt</a> all in one customer engagement platform with your WordPress web app.
   Author: Peeyush Singla
   Author URI: https://twitter.com/peeyush_singla
-  Version: 2.1
+  Version: 2.2
 */
 
 
